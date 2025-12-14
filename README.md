@@ -12,7 +12,7 @@
 </p>
 
 ---
- 
+  
 Failure is one of the most misunderstood concepts in modern analytics, policy, and system design.
 
 We treat failure as an event.
